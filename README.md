@@ -23,7 +23,7 @@ This project uses a Long Short-Term Memory (LSTM) deep learning model to forecas
 Household Electric Power Consumption dataset from Kaggle.
 
 ## Model
-The model uses an LSTM layer with 64 units, dropout, and dense layers to predict Global Active Power.
+The model uses an LSTM layer with 64 units, dropout and dense layers to predict Global Active Power.
 
 ## Results
 - Test MAE: 0.5268 kW
@@ -33,3 +33,4 @@ The model uses an LSTM layer with 64 units, dropout, and dense layers to predict
 
 ## Author
 SREELAKSHMI J
+732224CS194
